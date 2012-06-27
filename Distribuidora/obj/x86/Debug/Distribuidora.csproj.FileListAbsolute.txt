@@ -1,0 +1,50 @@
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora\Distribuidora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora\Distribuidora\obj\x86\Debug\Distribuidora.Form1.resources
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora\Distribuidora\obj\x86\Debug\Distribuidora.Properties.Resources.resources
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora\Distribuidora\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora\Distribuidora\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora\Distribuidora\bin\Debug\Distribuidora.exe
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora\Distribuidora\bin\Debug\Distribuidora.pdb
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora\Distribuidora\obj\x86\Debug\Distribuidora.exe
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora\Distribuidora\obj\x86\Debug\Distribuidora.pdb
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ALTA, MODIF CLIENTES\Distribuidora\obj\x86\Debug\Distribuidora.exe
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ALTA, MODIF CLIENTES\Distribuidora\obj\x86\Debug\Distribuidora.pdb
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ALTA, MODIF CLIENTES\Distribuidora\bin\Debug\Distribuidora.exe
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ALTA, MODIF CLIENTES\Distribuidora\bin\Debug\Distribuidora.pdb
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ALTA, MODIF CLIENTES\Distribuidora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ALTA, MODIF CLIENTES\Distribuidora\obj\x86\Debug\Distribuidora.Form1.resources
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ALTA, MODIF CLIENTES\Distribuidora\obj\x86\Debug\Distribuidora.Properties.Resources.resources
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ALTA, MODIF CLIENTES\Distribuidora\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ALTA, MODIF CLIENTES\Distribuidora\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora\Distribuidora\bin\Debug\Distribuidora.exe.config
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora\Distribuidora\obj\x86\Debug\RdlCompile.cache
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora\Distribuidora\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ABM CLIENTES PORUDCTOS NUEVO\Distribuidora\bin\Debug\Distribuidora.exe.config
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ABM CLIENTES PORUDCTOS NUEVO\Distribuidora\obj\x86\Debug\Distribuidora.exe
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ABM CLIENTES PORUDCTOS NUEVO\Distribuidora\obj\x86\Debug\Distribuidora.pdb
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ABM CLIENTES PORUDCTOS NUEVO\Distribuidora\bin\Debug\Distribuidora.exe
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ABM CLIENTES PORUDCTOS NUEVO\Distribuidora\bin\Debug\Distribuidora.pdb
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ABM CLIENTES PORUDCTOS NUEVO\Distribuidora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ABM CLIENTES PORUDCTOS NUEVO\Distribuidora\obj\x86\Debug\Distribuidora.Form1.resources
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ABM CLIENTES PORUDCTOS NUEVO\Distribuidora\obj\x86\Debug\Distribuidora.Properties.Resources.resources
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ABM CLIENTES PORUDCTOS NUEVO\Distribuidora\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ABM CLIENTES PORUDCTOS NUEVO\Distribuidora\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - ABM CLIENTES PORUDCTOS NUEVO\Distribuidora\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\bin\Debug\Distribuidora.exe.config
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\obj\x86\Debug\Distribuidora.exe
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\obj\x86\Debug\Distribuidora.pdb
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\bin\Debug\Distribuidora.exe
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\bin\Debug\Distribuidora.pdb
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\obj\x86\Debug\Distribuidora.Form1.resources
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\obj\x86\Debug\Distribuidora.Properties.Resources.resources
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\bin\Debug\Distribuidora.exe.manifest
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\bin\Debug\Distribuidora.application
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\obj\x86\Debug\Distribuidora.exe.manifest
+C:\Users\Andres\Desktop\Distribuidora\Distribuidora - REPORTES. NUEVA FORMA DE PAGOS\Distribuidora\obj\x86\Debug\Distribuidora.application
+C:\Users\Andres\Desktop\Repositorios\Facturacion\Distribuidora\bin\Debug\Distribuidora.exe.config
+C:\Users\Andres\Desktop\Repositorios\Facturacion\Distribuidora\obj\x86\Debug\Distribuidora.exe
+C:\Users\Andres\Desktop\Repositorios\Facturacion\Distribuidora\obj\x86\Debug\Distribuidora.pdb
